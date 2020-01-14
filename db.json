@@ -1,0 +1,472 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 1176396,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "eco",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "working?",
+      "description": "some description",
+      "location": "nowhere",
+      "date": "2020-01-01T17:19:00.000Z",
+      "time": "1:00",
+      "attendees": ""
+    },
+    {
+      "id": 1111,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2222,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3333,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 1176396,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "eco",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "working?",
+      "description": "some description",
+      "location": "nowhere",
+      "date": "2020-01-01T17:19:00.000Z",
+      "time": "1:00",
+      "attendees": ""
+    },
+    {
+      "id": 4700555,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "check title",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 6950827,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "check title",
+      "description": "add desc",
+      "location": "somehere",
+      "date": "2020-01-01T17:23:00.000Z",
+      "time": "3:00",
+      "attendees": ""
+    },
+    {
+      "id": 3504323,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "eco",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "hahdhdh",
+      "description": "something",
+      "location": "somewhere",
+      "date": "2020-01-01T17:25:00.000Z",
+      "time": "2:00",
+      "attendees": ""
+    },
+    {
+      "id": 3375077,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "router test",
+      "description": "hello ",
+      "location": "there",
+      "date": "2020-01-01T17:38:00.000Z",
+      "time": "3:00",
+      "attendees": ""
+    },
+    {
+      "id": 9342791,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "eco",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "second test",
+      "description": "",
+      "location": "2nd location",
+      "date": "",
+      "time": "2:00",
+      "attendees": ""
+    },
+    {
+      "id": 8695291,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 9719924,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "test notification",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 4772714,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "New event with notification",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 3103091,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 2479730,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "test notification",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 4018660,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "gello",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 4151694,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 4467682,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "test creation",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 2561744,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 223259,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "aaaaa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    },
+    {
+      "id": 3624249,
+      "user": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "category": "",
+      "organizer": {
+        "id": "01",
+        "name": "Ed"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": ""
+    }
+  ]
+}
